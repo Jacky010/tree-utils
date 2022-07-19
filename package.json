@@ -1,0 +1,19 @@
+{
+  "name": "tree-utils",
+  "version": "0.0.1",
+  "description": "树结构数据相关逻辑操作集",
+  "main": "./dist/treeUtils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tree",
+    "utils",
+    "typescript"
+  ],
+  "author": "jacky010",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
