@@ -1,6 +1,6 @@
 {
-  "name": "tree-utils",
-  "version": "0.0.1",
+  "name": "tree-utils.js",
+  "version": "0.0.2",
   "description": "树结构数据相关逻辑操作集",
   "main": "./dist/treeUtils.js",
   "scripts": {
@@ -13,7 +13,8 @@
   "keywords": [
     "tree",
     "utils",
-    "typescript"
+    "typescript",
+    "tree-utils.js"
   ],
   "author": "jacky010",
   "license": "MIT",

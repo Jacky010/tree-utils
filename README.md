@@ -1,7 +1,7 @@
-<h1 align="center">Welcome to tree-utils 👋</h1>
+<h1 align="center">Welcome to tree-utils.js 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/tree-utils" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/tree-utils.svg">
+  <a href="https://www.npmjs.com/package/tree-utils.js" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/tree-utils.js.svg">
   </a>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
@@ -29,7 +29,7 @@ npm install
 ### 安装
 
 ```sh
-npm i tree-utils@0.0.1
+npm i tree-utils.js
 ```
 
 ### 引用
@@ -46,7 +46,7 @@ import {
     getChildrenToList,
     forEachNode,
     getParentNodes
-} from 'tree-utils';
+} from 'tree-utils.js';
 
 const treeData: any[] = [
     {
@@ -119,7 +119,7 @@ import {
     getChildrenToList,
     forEachNode,
     getParentNodes
-} from 'tree-utils';
+} from 'tree-utils.js';
 
 const treeData: any[] = [
     {
